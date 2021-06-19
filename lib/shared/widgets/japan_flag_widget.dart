@@ -25,7 +25,7 @@ class JapanFlag extends StatelessWidget {
                   height: 100,
                   decoration: BoxDecoration(
                     shape: BoxShape.circle,
-                    color: Colors.red,
+                    color: Color(0xffff0000),
                   ),
                 ),
               ],
