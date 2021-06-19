@@ -5,7 +5,7 @@
 [![Stenio](https://img.shields.io/badge/steniooliv-in-%230072b1)](https://www.linkedin.com/in/steniooliv)
 
 ## About
-*Flutter project to train the creation of components only with Columns Rows, Stacks and Containers*
+*Flutter project to train the creation of components only with Columns, Rows, Stacks and Containers*
 
 ## Getting Started
 To run this project you must have an environment configured and enabled to run Flutter, you can install these requirements through the website below:
@@ -37,4 +37,4 @@ code .
 
 
 ## License
-This project is protected under the MIT License - see archive [LICENSE.md](LICENSE.md) para mais detalhes
+This project is protected under the MIT License - see archive [LICENSE.md](LICENSE.md) for more details.
